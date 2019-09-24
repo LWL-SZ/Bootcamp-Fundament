@@ -12,4 +12,5 @@
 
 ## 3. V4 neural sites
 `
-  
+  The V4 neural sites, commonly referred as mid-level cortical stages of ventral visual stream，can separate objects from their background.
+`
